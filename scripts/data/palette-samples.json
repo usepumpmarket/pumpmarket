@@ -1,0 +1,338 @@
+[
+ {
+  "hex": "#b5ddea",
+  "file": "brand/LOGO PUMPMARKET PNG...png",
+  "x": 834,
+  "y": 654,
+  "method": "kmeans-k12",
+  "share": 0.311
+ },
+ {
+  "hex": "#0a1b1e",
+  "file": "brand/LOGO PUMPMARKET PNG...png",
+  "x": 1280,
+  "y": 849,
+  "method": "kmeans-k12",
+  "share": 0.2511
+ },
+ {
+  "hex": "#729fb0",
+  "file": "brand/LOGO PUMPMARKET PNG...png",
+  "x": 557,
+  "y": 1284,
+  "method": "kmeans-k12",
+  "share": 0.0833
+ },
+ {
+  "hex": "#88b8c6",
+  "file": "brand/LOGO PUMPMARKET PNG...png",
+  "x": 1121,
+  "y": 1087,
+  "method": "kmeans-k12",
+  "share": 0.0652
+ },
+ {
+  "hex": "#1d383f",
+  "file": "brand/LOGO PUMPMARKET PNG...png",
+  "x": 981,
+  "y": 1222,
+  "method": "kmeans-k12",
+  "share": 0.0634
+ },
+ {
+  "hex": "#3f6778",
+  "file": "brand/LOGO PUMPMARKET PNG...png",
+  "x": 1431,
+  "y": 1000,
+  "method": "kmeans-k12",
+  "share": 0.0568
+ },
+ {
+  "hex": "#305463",
+  "file": "brand/LOGO PUMPMARKET PNG...png",
+  "x": 1316,
+  "y": 1381,
+  "method": "kmeans-k12",
+  "share": 0.0496
+ },
+ {
+  "hex": "#11262c",
+  "file": "brand/LOGO PUMPMARKET PNG...png",
+  "x": 1272,
+  "y": 1373,
+  "method": "kmeans-k12",
+  "share": 0.0422
+ },
+ {
+  "hex": "#eff9fc",
+  "file": "brand/LOGO PUMPMARKET PNG...png",
+  "x": 1155,
+  "y": 778,
+  "method": "kmeans-k12",
+  "share": 0.0232
+ },
+ {
+  "hex": "#ccebf6",
+  "file": "brand/LOGO PUMPMARKET PNG...png",
+  "x": 815,
+  "y": 1008,
+  "method": "kmeans-k12",
+  "share": 0.0231
+ },
+ {
+  "hex": "#9ac6d4",
+  "file": "brand/LOGO PUMPMARKET PNG...png",
+  "x": 1218,
+  "y": 784,
+  "method": "kmeans-k12",
+  "share": 0.0167
+ },
+ {
+  "hex": "#5e8899",
+  "file": "brand/LOGO PUMPMARKET PNG...png",
+  "x": 769,
+  "y": 1387,
+  "method": "kmeans-k12",
+  "share": 0.0144
+ },
+ {
+  "hex": "#00181c",
+  "file": "reference/PUMPMARKET 1.jpg.jpeg",
+  "x": 781,
+  "y": 816,
+  "method": "kmeans-k14",
+  "share": 0.8241
+ },
+ {
+  "hex": "#b4dae7",
+  "file": "reference/PUMPMARKET 1.jpg.jpeg",
+  "x": 1392,
+  "y": 313,
+  "method": "kmeans-k14",
+  "share": 0.0352
+ },
+ {
+  "hex": "#99e1f0",
+  "file": "reference/PUMPMARKET 1.jpg.jpeg",
+  "x": 623,
+  "y": 400,
+  "method": "kmeans-k14",
+  "share": 0.031
+ },
+ {
+  "hex": "#04252e",
+  "file": "reference/PUMPMARKET 1.jpg.jpeg",
+  "x": 279,
+  "y": 234,
+  "method": "kmeans-k14",
+  "share": 0.0302
+ },
+ {
+  "hex": "#093a48",
+  "file": "reference/PUMPMARKET 1.jpg.jpeg",
+  "x": 668,
+  "y": 394,
+  "method": "kmeans-k14",
+  "share": 0.0189
+ },
+ {
+  "hex": "#6f9eae",
+  "file": "reference/PUMPMARKET 1.jpg.jpeg",
+  "x": 1226,
+  "y": 695,
+  "method": "kmeans-k14",
+  "share": 0.0113
+ },
+ {
+  "hex": "#8bb9c8",
+  "file": "reference/PUMPMARKET 1.jpg.jpeg",
+  "x": 1194,
+  "y": 502,
+  "method": "kmeans-k14",
+  "share": 0.0104
+ },
+ {
+  "hex": "#71c4d2",
+  "file": "reference/PUMPMARKET 1.jpg.jpeg",
+  "x": 496,
+  "y": 518,
+  "method": "kmeans-k14",
+  "share": 0.0087
+ },
+ {
+  "hex": "#2b5261",
+  "file": "reference/PUMPMARKET 1.jpg.jpeg",
+  "x": 1373,
+  "y": 667,
+  "method": "kmeans-k14",
+  "share": 0.0086
+ },
+ {
+  "hex": "#3d6775",
+  "file": "reference/PUMPMARKET 1.jpg.jpeg",
+  "x": 1327,
+  "y": 684,
+  "method": "kmeans-k14",
+  "share": 0.0078
+ },
+ {
+  "hex": "#518998",
+  "file": "reference/PUMPMARKET 1.jpg.jpeg",
+  "x": 457,
+  "y": 391,
+  "method": "kmeans-k14",
+  "share": 0.005
+ },
+ {
+  "hex": "#e5f2fa",
+  "file": "reference/PUMPMARKET 1.jpg.jpeg",
+  "x": 1283,
+  "y": 356,
+  "method": "kmeans-k14",
+  "share": 0.0031
+ },
+ {
+  "hex": "#10bfde",
+  "file": "reference/PUMPMARKET 1.jpg.jpeg",
+  "x": 221,
+  "y": 167,
+  "method": "kmeans-k14",
+  "share": 0.0031
+ },
+ {
+  "hex": "#0e8ba1",
+  "file": "reference/PUMPMARKET 1.jpg.jpeg",
+  "x": 62,
+  "y": 167,
+  "method": "kmeans-k14",
+  "share": 0.0026
+ },
+ {
+  "hex": "#001415",
+  "file": "reference/SAMPUL PUMPMARKET JPG.jpg.jpeg",
+  "x": 261,
+  "y": 121,
+  "method": "kmeans-k12",
+  "share": 0.5243
+ },
+ {
+  "hex": "#011619",
+  "file": "reference/SAMPUL PUMPMARKET JPG.jpg.jpeg",
+  "x": 752,
+  "y": 348,
+  "method": "kmeans-k12",
+  "share": 0.4045
+ },
+ {
+  "hex": "#9ae7f9",
+  "file": "reference/SAMPUL PUMPMARKET JPG.jpg.jpeg",
+  "x": 812,
+  "y": 236,
+  "method": "kmeans-k12",
+  "share": 0.0218
+ },
+ {
+  "hex": "#03242b",
+  "file": "reference/SAMPUL PUMPMARKET JPG.jpg.jpeg",
+  "x": 731,
+  "y": 271,
+  "method": "kmeans-k12",
+  "share": 0.015
+ },
+ {
+  "hex": "#063a47",
+  "file": "reference/SAMPUL PUMPMARKET JPG.jpg.jpeg",
+  "x": 906,
+  "y": 263,
+  "method": "kmeans-k12",
+  "share": 0.009
+ },
+ {
+  "hex": "#88deed",
+  "file": "reference/SAMPUL PUMPMARKET JPG.jpg.jpeg",
+  "x": 819,
+  "y": 264,
+  "method": "kmeans-k12",
+  "share": 0.0089
+ },
+ {
+  "hex": "#02546c",
+  "file": "reference/SAMPUL PUMPMARKET JPG.jpg.jpeg",
+  "x": 1380,
+  "y": 219,
+  "method": "kmeans-k12",
+  "share": 0.0046
+ },
+ {
+  "hex": "#089ec3",
+  "file": "reference/SAMPUL PUMPMARKET JPG.jpg.jpeg",
+  "x": 300,
+  "y": 234,
+  "method": "kmeans-k12",
+  "share": 0.0042
+ },
+ {
+  "hex": "#047a98",
+  "file": "reference/SAMPUL PUMPMARKET JPG.jpg.jpeg",
+  "x": 352,
+  "y": 236,
+  "method": "kmeans-k12",
+  "share": 0.0031
+ },
+ {
+  "hex": "#6ba6aa",
+  "file": "reference/SAMPUL PUMPMARKET JPG.jpg.jpeg",
+  "x": 804,
+  "y": 242,
+  "method": "kmeans-k12",
+  "share": 0.0019
+ },
+ {
+  "hex": "#4e6d70",
+  "file": "reference/SAMPUL PUMPMARKET JPG.jpg.jpeg",
+  "x": 1003,
+  "y": 215,
+  "method": "kmeans-k12",
+  "share": 0.0014
+ },
+ {
+  "hex": "#38c8eb",
+  "file": "reference/SAMPUL PUMPMARKET JPG.jpg.jpeg",
+  "x": 283,
+  "y": 250,
+  "method": "kmeans-k12",
+  "share": 0.0014
+ },
+ {
+  "hex": "#42f0cf",
+  "file": "reference/PUMPMARKET 1.jpg.jpeg",
+  "x": 935,
+  "y": 408,
+  "method": "pixel",
+  "role": "mint-square"
+ },
+ {
+  "hex": "#00c2e3",
+  "file": "reference/PUMPMARKET 1.jpg.jpeg",
+  "x": 338,
+  "y": 158,
+  "method": "pixel",
+  "role": "cyan-square"
+ },
+ {
+  "hex": "#8180ff",
+  "file": "reference/PUMPMARKET 1.jpg.jpeg",
+  "x": 104,
+  "y": 868,
+  "method": "pixel",
+  "role": "solana-mark-violet"
+ },
+ {
+  "hex": "#44b2d7",
+  "file": "reference/PUMPMARKET 1.jpg.jpeg",
+  "x": 100,
+  "y": 848,
+  "method": "pixel",
+  "role": "solana-mark-mint"
+ }
+]

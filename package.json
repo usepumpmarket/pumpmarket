@@ -1,0 +1,14 @@
+{
+  "name": "pump-market",
+  "version": "1.0.0",
+  "description": "Pump Market: a live Solana volume board.",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "gates": "node scripts/gates.mjs",
+    "serve": "node scripts/serve.mjs dist 4173",
+    "assets": "python -I scripts/prep-assets.py"
+  }
+}

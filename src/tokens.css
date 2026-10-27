@@ -1,0 +1,43 @@
+/* Single home for colour literals. Every value below is a real pixel:
+   k-means centres over brand/ and reference/ art, each snapped to the nearest
+   actual pixel coordinate (x,y). "pixel" rows are direct reads.
+   Nothing else in the project may carry a hex, rgb() or hsl() literal. */
+:root {
+  --bg: #00181c; /* kmeans-k14 · reference/PUMPMARKET 1.jpg.jpeg @ (781,816) */
+  --bg-deep: #011619; /* kmeans-k12 · reference/SAMPUL PUMPMARKET JPG.jpg.jpeg @ (752,348) */
+  --bg-soft: #04252e; /* kmeans-k14 · reference/PUMPMARKET 1.jpg.jpeg @ (279,234) */
+  --panel: #093a48; /* kmeans-k14 · reference/PUMPMARKET 1.jpg.jpeg @ (668,394) */
+  --steel-deep: #1d383f; /* kmeans-k12 · brand/LOGO PUMPMARKET PNG...png @ (981,1222) */
+  --steel: #2b5261; /* kmeans-k14 · reference/PUMPMARKET 1.jpg.jpeg @ (1373,667) */
+  --steel-lift: #3d6775; /* kmeans-k14 · reference/PUMPMARKET 1.jpg.jpeg @ (1327,684) */
+  --muted-dark: #518998; /* kmeans-k14 · reference/PUMPMARKET 1.jpg.jpeg @ (457,391) */
+  --muted: #6f9eae; /* kmeans-k14 · reference/PUMPMARKET 1.jpg.jpeg @ (1226,695) */
+  --text-soft: #b5ddea; /* kmeans-k12 · brand/LOGO PUMPMARKET PNG...png @ (834,654) */
+  --text: #eff9fc; /* kmeans-k12 · brand/LOGO PUMPMARKET PNG...png @ (1155,778) */
+  --cyan: #71c4d2; /* kmeans-k14 · reference/PUMPMARKET 1.jpg.jpeg @ (496,518) */
+  --cyan-bright: #99e1f0; /* kmeans-k14 · reference/PUMPMARKET 1.jpg.jpeg @ (623,400) */
+  --accent: #10bfde; /* kmeans-k14 · reference/PUMPMARKET 1.jpg.jpeg @ (221,167) */
+  --accent-deep: #0e8ba1; /* kmeans-k14 · reference/PUMPMARKET 1.jpg.jpeg @ (62,167) */
+  --up: #42f0cf; /* pixel · reference/PUMPMARKET 1.jpg.jpeg @ (935,408) */
+  --down: #8180ff; /* pixel · reference/PUMPMARKET 1.jpg.jpeg @ (104,868) */
+
+  /* derived, no new colours */
+  --line: color-mix(in srgb, var(--cyan) 18%, transparent);
+  --line-soft: color-mix(in srgb, var(--cyan) 9%, transparent);
+  --line-strong: color-mix(in srgb, var(--cyan) 32%, transparent);
+  --shade: color-mix(in srgb, var(--bg-deep) 72%, transparent);
+
+  /* type, measured off the reference */
+  --sans: "DM Sans", system-ui, sans-serif;
+  --display: "Space Grotesk", system-ui, sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, monospace;
+  --pixel: "Pixelify Sans", "Space Grotesk", system-ui, sans-serif;
+
+  /* motion, measured: hover .16-.18s, entrance .55s, pulse 2s, ease .4/0/.2/1 */
+  --ease: cubic-bezier(0.4, 0, 0.2, 1);
+  --t-fast: 0.16s;
+  --t-base: 0.18s;
+  --t-enter: 0.55s;
+  --wrap: min(100% - 48px, 1180px);
+  --tap: 44px;
+}
